@@ -1,2 +1,4 @@
-# iran-ip-for-mikrotik
-Iran ip Address range for bypassing filtering using mikrotik router
+# countries-ip-list-for-mikrotik
+this repository is going to update over time
+
+feel free to contribute and update lists
